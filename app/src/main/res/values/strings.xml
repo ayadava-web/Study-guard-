@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Guard App Blocker</string>
+    <string name="accessibility_service_desc">This service is used by Study Guard App Blocker to monitor foreground app changes. If a user-selected blocked app is kept open beyond the configured study timer, it temporarily overlays a blocking screen to keep students focused on studies.</string>
+</resources>

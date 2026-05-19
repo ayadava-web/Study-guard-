@@ -1,0 +1,6 @@
+{
+  "name": "Study Guard App Blocker",
+  "description": "Native Android utility application constructed in Kotlin and Jetpack Compose to block custom apps after a background timer to sustain study focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
